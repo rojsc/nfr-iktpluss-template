@@ -1,0 +1,12 @@
+syntax: glob
+*.aux
+*.log
+*.out
+*.blg
+*.bcf
+*.bbl
+*.run.xml
+__latexindent_temp.tex
+*.fdb_latexmk
+*.fls
+*.pdf
