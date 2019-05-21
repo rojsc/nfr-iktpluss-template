@@ -11,5 +11,5 @@ Roman.
 Bruk LuaLaTeX til kompilering, og Biber til bibliografi.
 Det enkleste er å bruke Latexmk:
 ```bash
-latexmk -lualatex nfr-iktpluss-mal
+latexmk -lualatex nfr-iktpluss-template
 ```
